@@ -17,14 +17,15 @@ berbagai perhitungan terkait dengan materi atau topik dalam Aljabar.
 
 ## Contoh pertama
 Menyederhanakan bentuk aljabar:
-$$6x^{-3}y^5\times -7x^2y^{-9}$$\>$&6\*x^(-3)\*y^5\*-7\*x^2\*y^(-9)
+$$6x^{-3}y^5\times -7x^2y^{-9}
 
+$$\>$&6\*x^(-3)\*y^5\*-7\*x^2\*y^(-9)
 
 $$-\frac{42}{x\,y^4}$$Menjabarkan:
 
+$$(6x^{-3}+y^5)(-7x^2-y^{-9})
 
-$$(6x^{-3}+y^5)(-7x^2-y^{-9})$$\>$&showev('expand((6\*x^(-3)+y^5)\*(-7\*x^2-y^(-9))))
-
+$$\>$&showev('expand((6\*x^(-3)+y^5)\*(-7\*x^2-y^(-9))))
 
 $${\it expand}\left(\left(-\frac{1}{y^9}-7\,x^2\right)\,\left(y^5+
  \frac{6}{x^3}\right)\right)=-7\,x^2\,y^5-\frac{1}{y^4}-\frac{6}{x^3
