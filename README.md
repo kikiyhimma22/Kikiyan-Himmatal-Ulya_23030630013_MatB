@@ -14,45 +14,9 @@ Kelas :Matematika B
 
 Pada notebook ini Anda belajar menggunakan EMT untuk melakukan
 berbagai perhitungan terkait dengan materi atau topik dalam Aljabar.
-Kegiatan yang harus Anda lakukan adalah sebagai berikut:
-
-
-* 
-Membaca secara cermat dan teliti notebook ini;
-
-* 
-Menerjemahkan teks bahasa Inggris ke bahasa Indonesia;
-
-* 
-Mencoba contoh-contoh perhitungan (perintah EMT) dengan cara
-* meng-ENTER setiap perintah EMT yang ada (pindahkan kursor ke baris
-* perintah)
-
-* 
-Jika perlu Anda dapat memodifikasi perintah yang ada dan memberikan
-* keterangan/penjelasan tambahan terkait hasilnya.
-
-* 
-Menyisipkan baris-baris perintah baru untuk mengerjakan soal-soal
-* Aljabar dari file PDF yang saya berikan;
-
-* 
-Memberi catatan hasilnya.
-
-* 
-Jika perlu tuliskan soalnya pada teks notebook (menggunakan format
-* LaTeX).
-
-* 
-Gunakan tampilan hasil semua perhitungan yang eksak atau simbolik
-* dengan format LaTeX. (Seperti contoh-contoh pada notebook ini.)
-
 
 ## Contoh pertama
-
 Menyederhanakan bentuk aljabar:
-
-
 $$6x^{-3}y^5\times -7x^2y^{-9}$$\>$&6\*x^(-3)\*y^5\*-7\*x^2\*y^(-9)
 
 
